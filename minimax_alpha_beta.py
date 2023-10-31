@@ -1,10 +1,9 @@
 # UNC Charlotte
-# ITCS 5153 - Applied AI - Fall 2021
+# ITCS 5153 - Applied AI - Fall 2023
 # Lab 3
 # Adversarial Search / Game Playing
-# This module implements minimax and alpha beta pruning to
+# This program implements minimax and alpha beta pruning to
 # be able to compete against user in a game of Connect 4
-# Student ID: 801134460
 
 import numpy as np
 import random
