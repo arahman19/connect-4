@@ -1,6 +1,4 @@
-# UNC Charlotte
-# ITCS 5153 - Applied AI - Fall 2023
-# Lab 3
+# Connect 4
 # Adversarial Search / Game Playing
 # This program implements minimax and alpha beta pruning to
 # be able to compete against user in a game of Connect 4
